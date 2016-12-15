@@ -1,0 +1,2 @@
+[workspace]
+members = ["logging2", "ml1_beta1"]
